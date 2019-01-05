@@ -1,0 +1,7 @@
+/lib/impact/*
+/lib/weltmeister/*
+!/lib/weltmeister/config.js
+
+/tools/*
+
+weltmeister.html
