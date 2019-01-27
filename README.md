@@ -10,7 +10,7 @@ Built using [Impact.js](https://impactjs.com/).
 
 * Develop story further
 * Add more levels, characters, weapons, secret rooms
-* Create unique audio (currently just using from Impact Tutorials)
+* Polish audio (create level theme songs, adjust sound levels)
 
 ## Attribution
 
@@ -19,4 +19,3 @@ The background tilesets and entity graphics can be found below:
 * [Skeleton](https://opengameart.org/content/lpc-skeleton)
 * [Tiles](https://opengameart.org/content/dungeon-crawl-32x32-tiles)
 * [Heart Health](https://opengameart.org/content/hearthealth)
-* [Sounds From Tutorials](https://impactjs.com/download)
