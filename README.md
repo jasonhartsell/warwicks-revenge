@@ -10,7 +10,6 @@ Built using [Impact.js](https://impactjs.com/).
 
 * Develop story further
 * Add more levels, characters, weapons, secret rooms
-* Polish audio (create level theme songs, adjust sound levels)
 
 ## Attribution
 
