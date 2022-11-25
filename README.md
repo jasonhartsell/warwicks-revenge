@@ -2,7 +2,7 @@
 
 A Gauntlet-style game called Warwick's Revenge where you play William the Conqueror's skeleton and must fight your way through the haunted Warwick Castle.
 
-[Play Game](https://www.abstracthuman.com/games/warwicks-revenge/)
+[Play Game](https://www.jasonhartsell.com/games/warwicks-revenge/)
 
 ## DEVELOPMENT
 
